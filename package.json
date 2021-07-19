@@ -1,0 +1,24 @@
+{
+  "name": "dkbesv--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "vue": "3.1.5",
+    "@progress/kendo-vue-grid": "^1.1.0",
+    "@progress/kendo-data-query": "1.5.5",
+    "@progress/kendo-licensing": "1.2.0",
+    "@progress/kendo-vue-animation": "2.3.0",
+    "@progress/kendo-drawing": "1.10.1",
+    "@progress/kendo-vue-intl": "2.3.0",
+    "@progress/kendo-vue-dropdowns": "2.3.0",
+    "@progress/kendo-vue-inputs": "2.3.0",
+    "@progress/kendo-vue-data-tools": "2.3.0",
+    "@progress/kendo-vue-dateinputs": "2.3.0",
+    "@progress/kendo-vue-popup": "2.3.0",
+    "@progress/kendo-vue-pdf": "2.3.0",
+    "@progress/kendo-vue-excel-export": "2.3.0",
+    "cldr-core": "36.0.0",
+    "cldr-numbers-full": "36.0.0",
+    "cldr-dates-full": "36.0.0"
+  }
+}
